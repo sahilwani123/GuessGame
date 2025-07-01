@@ -1,0 +1,10 @@
+# React Native
+node_modules/
+android/app/build/
+ios/build/
+.expo/
+.expo-shared/
+
+# System files
+.DS_Store
+.env
